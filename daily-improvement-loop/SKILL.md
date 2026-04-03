@@ -34,4 +34,4 @@ description: Run daily self-improvement loops for assistant speed, quality, and 
 ## Safety boundaries
 - Never skip confirmations for destructive/public actions.
 - Never store raw secrets in memory/docs unless explicitly instructed.
-- HARD RULE: any downloaded skill code (even from ClawHub/ShopClawMart) must be scanned for malicious patterns / security flaws BEFORE install. Never install blind — verify first.
+- HARD RULE: any downloaded skill code (even from ClawHub/ShopClawMart) must be scanned for malicious patterns / security flaws BEFORE install — nothing downloaded is trusted by default, ever.
